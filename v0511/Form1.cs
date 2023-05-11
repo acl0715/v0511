@@ -6,5 +6,10 @@ namespace v0511
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("‚±‚ñ‚É‚¿‚Í");
+        }
     }
 }
